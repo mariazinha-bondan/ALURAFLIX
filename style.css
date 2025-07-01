@@ -15,4 +15,7 @@ p{
 
 header{
     border-bottom: solid 3px white;
+    font-size: 40px;
+    color: bisque;
+    padding: 15px;
 }
